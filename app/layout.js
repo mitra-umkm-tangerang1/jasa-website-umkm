@@ -1,16 +1,24 @@
+import { Inter } from 'next/font/google'
 import './globals.css'
 
+const inter = Inter({ subsets: ['latin'] })
+
 export const metadata = {
-  title: 'Next.js MongoDB Template',
-  description: 'A simple template with App Router, MongoDB, and shadcn/ui',
+  title: 'Jasa Pembuatan Website UMKM - Website Profesional & Terjangkau',
+  description: 'Jasa pembuatan website profesional untuk UMKM. Website cepat, modern, dan terjangkau untuk meningkatkan bisnis Anda. Paket mulai dari Rp 750.000',
+  keywords: 'jasa website, website umkm, pembuatan website, web development, website murah, website toko online',
+  authors: [{ name: 'Jasa Website UMKM' }],
+  openGraph: {
+    title: 'Jasa Pembuatan Website UMKM - Website Profesional & Terjangkau',
+    description: 'Website cepat, modern, dan terjangkau untuk meningkatkan bisnis Anda',
+    type: 'website',
+  },
 }
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
-      <body>
-        {children}
-      </body>
+    <html lang="id">
+      <body className={inter.className}>{children}</body>
     </html>
   )
 }
