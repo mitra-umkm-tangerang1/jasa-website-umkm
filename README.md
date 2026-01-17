@@ -13,14 +13,14 @@ Website profesional untuk jasa pembuatan website UMKM di Indonesia. Dibangun den
 
 ## 📋 Paket Layanan
 
-### Paket Basic - Rp 750.000
+### Paket Basic - Rp 250.000
 - 3 halaman
-- Responsive
+- Desain profesional
 - WhatsApp button
 - Google Maps
-- Revisi 2x
+- Domain & hosting Free Version
 
-### Paket Standard - Rp 1.500.000
+### Paket Standard - Rp 980.000
 - 6 halaman
 - Desain profesional
 - SEO dasar
@@ -28,7 +28,7 @@ Website profesional untuk jasa pembuatan website UMKM di Indonesia. Dibangun den
 - Domain & hosting 1 tahun
 - Revisi 3x
 
-### Paket Premium - Rp 3.000.000
+### Paket Premium - Rp 1.720.000
 - Unlimited halaman
 - Toko online
 - Payment gateway
@@ -233,7 +233,7 @@ yarn lint
 Untuk pertanyaan atau support:
 - **WhatsApp**: 085718539571
 - **Email**: info@jasawebsite-umkm.com
-- **Lokasi**: Jakarta, Indonesia
+- **Lokasi**: Tangerang, Indonesia
 
 ## 📝 License
 
