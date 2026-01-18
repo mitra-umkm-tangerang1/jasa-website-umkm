@@ -1,8 +1,10 @@
 export default function sitemap() {
+  const baseUrl = 'https://jasa-website-umkm.vercel.app'
+
   return [
     {
-      url: "https://jasa-website-umkm.vercel.app",
+      url: baseUrl,
       lastModified: new Date(),
     },
-  ];
+  ]
 }
